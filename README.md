@@ -15,4 +15,4 @@ Here is the link to the dataset: https://www.kaggle.com/datasets/meowmeowmeowmeo
 A detailed report about the project will be uploaded soon.
  
 I got some help during the preprocessing phase of the project. Credits to: https://www.kaggle.com/code/shivank856/gtsrb-cnn-98-test-accuracy
-By the way, they implemented another model and got test accuracy ıf 98% on the same dataset. Quite impressive, isn't it?
+By the way, they implemented another model and got a test accuracy of 98% on the same dataset. Quite impressive, isn't it?
