@@ -16,3 +16,5 @@ This was my term project for Deep Learning and Classification Techniques class, 
  
 I got some help during the preprocessing phase of the project. Credits to: https://www.kaggle.com/code/shivank856/gtsrb-cnn-98-test-accuracy
 By the way, they implemented another model and got a test accuracy of 98% on the same dataset. Quite impressive, isn't it?
+
+Feel free to contact me for anything: mehmetcesitli@gmail.com
